@@ -1,6 +1,6 @@
 # Economic Freedom Index Thailand Analysis
 Business Intellegence System Machine Learning Project<br/>
-[**Jupyter Notebook**](https://github.com/taninsk137/ml_project/blob/main/economic_freedom.ipynb)
+### [**Jupyter Notebook**](https://github.com/taninsk137/ml_project/blob/main/economic_freedom.ipynb)
 ___
 ## Members
 - Chitipat Boonyamanond
