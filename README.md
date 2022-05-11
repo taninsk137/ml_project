@@ -10,7 +10,7 @@ ___
 - Watthanaphong Manassupharanan
 ___
 ## Youtube Video
-[<img src="https://raw.githubusercontent.com/taninsk137/ml_project/main/thumbnail.jpg" height=400>](https://www.youtube.com/feed/subscriptions)
+[<img src="https://raw.githubusercontent.com/taninsk137/ml_project/main/thumbnail.jpg" height=400>](https://youtu.be/I7RusEVgRnU)
 ___
 ## Data Source
 - [2022 Index of Economic Freedom](https://www.heritage.org/index/explore)
