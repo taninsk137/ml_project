@@ -14,3 +14,4 @@ ___
 ___
 ## Data Source
 - [2022 Index of Economic Freedom](https://www.heritage.org/index/explore)
+- [2022 Index of Economic Freedom Book](https://www.heritage.org/index/pdf/2022/book/2022_IndexOfEconomicFreedom_FINAL.pdf)
